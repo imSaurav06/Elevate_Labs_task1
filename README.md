@@ -29,15 +29,11 @@ A simple and stylish responsive landing page built using HTML and CSS. Includes 
 2. Open `index.html` with Live Server in VS Code.
 3. Make sure `12458.jpg` and `illustration.png` are in the same directory.
 
-## 🧪 Try More Animations
+## 🧪 Trying More Animations
 
-Explore:
-- [Hover.css](https://ianlunn.github.io/Hover/)
-- [Animista](https://animista.net/)
-- [UIVerse](https://uiverse.io/)
 
 ## 🔗 Live Preview (optional)
-You can deploy this on GitHub Pages or Netlify for free previews.
+
 
 ---
 
