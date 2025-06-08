@@ -1,7 +1,7 @@
 
 # goride  
 
-[project link](https://imsaurav06.github.io/goride/)
+[project link](https://imsaurav06.github.io/Elevate_Labs_task1/)
 
 
 
